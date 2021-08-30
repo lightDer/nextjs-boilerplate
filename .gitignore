@@ -1,0 +1,13 @@
+# build
+.next
+out
+
+# OSX
+.DS_Store
+
+#VSCODE IDE setting
+.vscode/
+
+# node.js
+node_modules/
+npm-debug.log
